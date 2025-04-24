@@ -10,4 +10,11 @@ This repository contains 3 matlab codes used for calcium analysis of islets. 2 e
 - Example data is found in Mouse Islet Heatmap Example File.csv
 
 **Active_Silent_Peak_Analysis_with_Amplitude.m**
-- This code takes an input file of time in minutes and 
+- This code takes an input file of time in minutes and F-F0 normalized calcium data for each islet listed in columns
+- The code will detect peaks in the calcium data for the specific time and islet specified
+- The code will output the oscillation period, duty cycle, active phase, silent phase, and amplitude for each detected oscillation
+- Example data is found in Active Silent Example.csv
+
+**Human_GABA_Applications_Avgs.m**
+- This code takes an input file of time in minutes and F-F0 normalized calcium data for each islet listed in columns
+- This code will calculate the  
