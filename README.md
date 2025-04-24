@@ -19,4 +19,4 @@ This repository contains 3 matlab codes used for calcium analysis of islets. 2 e
 - This code takes an input file of time in minutes and F-F0 normalized calcium data for each islet listed in columns
 - This code will calculate the average value of calcium data during minimum of GABA application as well as 3 minutes before and after application
 - Averages are taken over 30 seconds
-- Outputs are 
+- Outputs are the pre-. during, and post- GABA averages as well as the time at which the calcium was at a minimum during the GABA application
